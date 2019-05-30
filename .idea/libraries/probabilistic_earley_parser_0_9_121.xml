@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="probabilistic-earley-parser-0.9.121">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Downloads/jar_files/probabilistic-earley-parser-0.9.12.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/jar_files/trove4j-3.0.3.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
